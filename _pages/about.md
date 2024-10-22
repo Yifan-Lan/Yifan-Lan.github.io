@@ -57,5 +57,5 @@ I'm a senior student from [Huazhong University of Science and Technology (HUST)]
 
 # 🖥️ Research
 - *2024.06 - Present*, Advisor: [Jinghui Chen](https://jinghuichen.github.io/), [PSU](https://www.psu.edu/).
-- *2023.07 - 2024.05*, Advisor: [Huaizu Jiang](https://jianghz.me/), [NEU Boston](https://www.northeastern.edu/).
+- *2024.03 - Present*, Advisor: [Huaizu Jiang](https://jianghz.me/), [NEU Boston](https://www.northeastern.edu/).
 - *2023.07 - 2024.05*, Advisor: [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm), [HUST](https://www.hust.edu.cn/).
