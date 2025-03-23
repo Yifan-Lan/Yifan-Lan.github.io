@@ -19,7 +19,7 @@ redirect_from:
 
 # 💾 About Me
 
-I'm a senior student from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I am now doing a research internship at [PSU](https://www.psu.edu/) under the guidance of Professor [Jinghui Chen](https://jinghuichen.github.io/). Before that, I had the fortune of working with Professor [Huaizu Jiang](https://jianghz.me/) at [NEU Boston](https://www.northeastern.edu/) and [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at [HUST](https://www.hust.edu.cn/). My research interests include generative models, computer vision, trustworthy machine learning and natural language processing. 
+I am a senior student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and an incoming PhD at The Pennsylvania State University (PSU), where I will be working under the guidance of Professor [Jinghui Chen](https://jinghuichen.github.io/). Prior to this, I had the fortune of working with Professor [Huaizu Jiang](https://jianghz.me/) at [NEU Boston](https://www.northeastern.edu/) and [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at HUST. My research interests include generative models, computer vision and trustworthy machine learning. 
 
 <!---
 # 🔥 News
@@ -56,6 +56,6 @@ I'm a senior student from [Huazhong University of Science and Technology (HUST)]
 --->
 
 # 🖥️ Research
-- *2024.06 - Present*, Advisor: [Jinghui Chen](https://jinghuichen.github.io/), [PSU](https://www.psu.edu/).
-- *2024.03 - Present*, Advisor: [Huaizu Jiang](https://jianghz.me/), [NEU Boston](https://www.northeastern.edu/).
-- *2023.07 - 2024.05*, Advisor: [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm), [HUST](https://www.hust.edu.cn/).
+- *2024.06 - Present*, Advisor: Jinghui Chen, PSU.
+- *2024.03 - Present*, Advisor: Huaizu Jiang, NEU Boston.
+- *2023.07 - 2024.05*, Advisor: Shan Tan, HUST.
