@@ -27,7 +27,7 @@ author:
   location         : "State College, Pennsylvania"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bUrvERoAAAAJ"
   email            : "yflantmy@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Yifan-Lan"
   google_plus      :
   keybase          :
   instagram        :
