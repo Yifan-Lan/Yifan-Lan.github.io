@@ -37,13 +37,26 @@ I am a senior student at [Huazhong University of Science and Technology (HUST)](
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Oral)</div><img src='images/Phi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral 🏆</div><img src='images/Phi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/pdf/2509.12521))
-[**Code**](https://github.com/Yifan-Lan/Phi?tab=readme-ov-file))
+[Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time](https://arxiv.org/pdf/2509.12521)
 
 **Yifan Lan**, Yuanpu Cao, Weitong Zhang, Lin Lu, Jinghui Chen
+
+[**Paper**](https://arxiv.org/pdf/2509.12521) &nbsp;|&nbsp; [**Code**](https://github.com/Yifan-Lan/Phi)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/MBIB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixture of Balanced Information Bottlenecks for LongTailed Visual Recognition](https://arxiv.org/pdf/2509.01804)
+
+**Yifan Lan**, Xin Cai, Jun Cheng, Shan Tan
+
+[**Paper**](https://arxiv.org/pdf/2509.01804)
 
 </div>
 </div>
