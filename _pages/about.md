@@ -44,7 +44,7 @@ I am a senior student at [Huazhong University of Science and Technology (HUST)](
 
 **Yifan Lan**, Yuanpu Cao, Weitong Zhang, Lin Lu, Jinghui Chen
 
-[**Paper**](https://arxiv.org/pdf/2509.12521) &nbsp;|&nbsp; [**Code**](https://github.com/Yifan-Lan/Phi)
+[**Paper**](https://arxiv.org/pdf/2509.12521) | [**Code**](https://github.com/Yifan-Lan/Phi)
 
 </div>
 </div>
