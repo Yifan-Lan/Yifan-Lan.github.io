@@ -23,7 +23,9 @@ I am a first-year Ph.D. student in the College of Information Sciences and Techn
 Before joining Penn State, I received my B.Eng. degree in Artificial Intelligence from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/).  
 During my undergraduate studies, I was fortunate to work with Professor [Huaizu Jiang](https://jianghz.me/) at [Northeastern University](https://www.northeastern.edu/) and Professor [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at HUST.  
 
-My research interests lie in **AI Agent**, **multimodal large language models** (MLLMs), and **trustworthy machine learning**.
+My research interests lie in **AI Agent**, **multimodal large language models** (MLLMs), and **trustworthy machine learning**. I am open for collaborations in research.
+
+<span style="color:red; font-weight:bold;">I am actively looking for 2026 summer internship opportunities!</span>
 
 <!---
 I am a senior student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and an incoming PhD at The Pennsylvania State University (PSU), where I will be working under the guidance of Professor [Jinghui Chen](https://jinghuichen.github.io/). Prior to this, I had the fortune of working with Professor [Huaizu Jiang](https://jianghz.me/) at [NEU Boston](https://www.northeastern.edu/) and [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at HUST. My research interests include generative models, computer vision and trustworthy machine learning. 
