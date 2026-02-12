@@ -44,7 +44,7 @@ I am a senior student at [Huazhong University of Science and Technology (HUST)](
 
 [Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time](https://arxiv.org/pdf/2509.12521)
 
-**Yifan Lan**, Yuanpu Cao, Weitong Zhang, Lin Lu, Jinghui Chen
+**Yifan Lan**, Yuanpu Cao, Weitong Zhang, Lu Lin, Jinghui Chen
 
 [**Paper**](https://arxiv.org/pdf/2509.12521) | [**Code**](https://github.com/Yifan-Lan/Phi)
 
