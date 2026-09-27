@@ -39,6 +39,42 @@ I am a senior student at [Huazhong University of Science and Technology (HUST)](
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SkillTransfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Skill Transfer: Adapting Agent Skills from Strong to Weak Agents](https://github.com/Yifan-Lan/Skill-Transfer/blob/main/paper/SKill_Transfer_preprint.pdf)
+
+**Yifan Lan**, Hanyu Wang, Lu Lin, Jinghui Chen
+
+[**Paper**](https://github.com/Yifan-Lan/Skill-Transfer/blob/main/paper/SKill_Transfer_preprint.pdf) | [**Code**](https://github.com/Yifan-Lan/Skill-Transfer)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SkillGrad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SkillGrad: Optimizing Agent Skills Like Gradient Descent](https://arxiv.org/pdf/2605.27760)
+
+Hanyu Wang, **Yifan Lan**, Bochuan Cao, Lu Lin, Jinghui Chen
+
+[**Paper**](https://arxiv.org/pdf/2605.27760) | [**Code**](https://github.com/wwwhy725/SkillGrad)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ZCP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation](https://arxiv.org/pdf/2605.21856)
+
+**Yifan Lan**, Yuanpu Cao, Hanyu Wang, Lu Lin, Jinghui Chen
+
+[**Paper**](https://arxiv.org/pdf/2605.21856) | [**Code**](https://github.com/Yifan-Lan/zero-cot-probe)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral 🏆</div><img src='images/Phi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
