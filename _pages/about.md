@@ -23,7 +23,7 @@ I am a second-year Ph.D. student in the College of Information Sciences and Tech
 Before joining Penn State, I received my B.Eng. degree in Artificial Intelligence from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/).  
 During my undergraduate studies, I was fortunate to work with Professor [Huaizu Jiang](https://jianghz.me/) at [Northeastern University](https://www.northeastern.edu/) and Professor [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at HUST.  
 
-My research interests lie in **AI Agent**, **multimodal large language models** (MLLMs), and **trustworthy machine learning**. I am open for collaborations in research.
+My research interests lie in **AI Agent**, **reasoning**, **multimodal large language models** (MLLMs), and **trustworthy machine learning**. I am open for collaborations in research.
 
 <span style="color:red; font-weight:bold;">I am actively looking for 2027 summer internship opportunities!</span>
 
