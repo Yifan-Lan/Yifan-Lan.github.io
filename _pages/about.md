@@ -19,7 +19,7 @@ redirect_from:
 
 # 💾 About Me
 
-I am a first-year Ph.D. student in the College of Information Sciences and Technology at [The Pennsylvania State University (PSU)](https://www.psu.edu/), advised by Professor [Jinghui Chen](https://jinghuichen.github.io/).  
+I am a second-year Ph.D. student in the College of Information Sciences and Technology at [The Pennsylvania State University (PSU)](https://www.psu.edu/), advised by Professor [Jinghui Chen](https://jinghuichen.github.io/).  
 Before joining Penn State, I received my B.Eng. degree in Artificial Intelligence from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/).  
 During my undergraduate studies, I was fortunate to work with Professor [Huaizu Jiang](https://jianghz.me/) at [Northeastern University](https://www.northeastern.edu/) and Professor [Shan Tan](http://aia.hust.edu.cn/info/1230/5052.htm) at HUST.  
 
