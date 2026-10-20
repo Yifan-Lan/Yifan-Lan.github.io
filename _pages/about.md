@@ -39,6 +39,18 @@ I am a senior student at [Huazhong University of Science and Technology (HUST)](
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DecisionRobust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision](https://arxiv.org/pdf/2610.19118)
+
+**Yifan Lan**, Zhongye Liu, Yurui Chang, Hanyu Wang, Yongkang Du, Lu Lin, Jinghui Chen
+
+[**Paper**](https://arxiv.org/pdf/2610.19118) | [**Code**](https://github.com/Yifan-Lan/DecisionRobust) | [**Leaderboard**](https://yifan-lan.github.io/DecisionRobust/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SkillTransfer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
