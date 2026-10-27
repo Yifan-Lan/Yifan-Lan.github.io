@@ -78,11 +78,11 @@ Hanyu Wang, **Yifan Lan**, Bochuan Cao, Lu Lin, Jinghui Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ZCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation](https://arxiv.org/pdf/2605.21856)
+[The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation](https://arxiv.org/pdf/2605.21856v2)
 
 **Yifan Lan**, Yuanpu Cao, Hanyu Wang, Lu Lin, Jinghui Chen
 
-[**Paper**](https://arxiv.org/pdf/2605.21856) | [**Code**](https://github.com/Yifan-Lan/zero-cot-probe)
+[**Paper**](https://arxiv.org/pdf/2605.21856v2) | [**Code**](https://github.com/Yifan-Lan/zero-cot-probe)
 
 </div>
 </div>
